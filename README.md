@@ -156,26 +156,14 @@ Multi-tenant KPI dashboard with streaming pipelines, RBAC, and built-in observab
 <tr>
 <td width="50%" valign="top">
 
-#### 🏠 &nbsp;Smart Home Assistant
-*Edge AI · IoT*
+#### 🏠 &nbsp;Alexa Home Assistant
+*Serverless · Python*
 
-Voice-driven assistant integrating IoT devices with intent classification, an event bus, and a modular skill system.
+Alexa skill for Home Assistance.
 
-<sub>`Python` `MQTT` `LLMs` `Raspberry Pi` `Docker`</sub>
+<sub>`Python` `Servlerless` `AWS` `Mongodb`</sub>
 
-[`→ repo`](https://github.com/Yashjaiswal638/smart-home-assistant)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🛡️ &nbsp;Anomaly Detection System
-*Streaming ML · Production*
-
-Time-series anomaly detection on streaming telemetry, deployed on Kubernetes with autoscaling and real-time alerting.
-
-<sub>`Python` `Kafka` `Kubernetes` `Prometheus` `scikit-learn`</sub>
-
-[`→ repo`](https://github.com/Yashjaiswal638/anomaly-detection)
+[`→ repo`](https://github.com/Yashjaiswal638/MinorAlexa)
 
 </td>
 </tr>
