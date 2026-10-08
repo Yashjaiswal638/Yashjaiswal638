@@ -9,7 +9,7 @@
 </h3>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=720&lines=Designing+resilient+infrastructure+for+intelligent+systems.;Building+AI+agents+with+LangGraph+%E2%80%A2+Shipping+on+Kubernetes.;M.Sc.+Research+%40+TU+Ilmenau+%E2%80%94+Erfurt%2C+Germany." alt="subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=720&lines=Designing+resilient+infrastructure+for+intelligent+systems.;Building+AI+agents+with+LangGraph+%E2%80%A2+Shipping+on+Kubernetes.;M.Sc.+Research+%40+TU+Ilmenau+%E2%80%94+%2C+Germany." alt="subtitle" />
 </p>
 
 <p>
@@ -29,7 +29,7 @@
 ```ts
 const yash = {
   role:      "Backend · Cloud · DevOps · AI Systems Engineer",
-  location:  "Erfurt, Germany",
+  location:  "Germany",
   education: "M.Sc. Computer & Systems Engineering @ TU Ilmenau",
   prev:      "Technical Associate @ OnceHub",
   building:  ["AI Agents", "LangGraph workflows", "Cloud-native platforms"],
