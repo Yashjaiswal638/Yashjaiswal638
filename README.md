@@ -245,7 +245,7 @@ Alexa skill for home assistance — object finder and workout tracker.
 
 ```
 ─────────────────────────────────────────────────────────────
-  Building scalable systems and intelligent workflows.
+    Building scalable systems and intelligent workflows.
 ─────────────────────────────────────────────────────────────
 ```
 
