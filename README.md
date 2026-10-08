@@ -1,21 +1,3 @@
-## Hi there 👋
-
-<!--
-**Yashjaiswal638/Yashjaiswal638** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <!-- ====================== HERO ====================== -->
 
 <div align="center">
@@ -90,8 +72,8 @@ const yash = {
 
 **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/-AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/-Azure-0d1117?style=flat-square&logo=microsoftazure&logoColor=0078D4)
+![AWS](https://img.shields.io/badge/-AWS-0d1117?style=flat-square&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/-Azure-0d1117?style=flat-square&logoColor=0078D4)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=326CE5)
 ![Docker](https://img.shields.io/badge/-Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
 ![Terraform](https://img.shields.io/badge/-Terraform-0d1117?style=flat-square&logo=terraform&logoColor=7B42BC)
@@ -105,8 +87,8 @@ const yash = {
 **AI & Data**
 
 ![LangGraph](https://img.shields.io/badge/-LangGraph-0d1117?style=flat-square&logo=langchain&logoColor=38BDF8)
-![LangChain](https://img.shields.io/badge/-LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=2A5ADA)
-![OpenAI](https://img.shields.io/badge/-OpenAI-0d1117?style=flat-square&logo=openai&logoColor=10A37F)
+![LangChain](https://img.shields.io/badge/-LangChain-0d1117?style=flat-square&logo=langchain&logoColor=2A5ADA)
+![OpenAI](https://img.shields.io/badge/-OpenAI-0d1117?style=flat-square&logoColor=10A37F)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
 ![Pandas](https://img.shields.io/badge/-Pandas-0d1117?style=flat-square&logo=pandas&logoColor=ffffff)
 
@@ -133,21 +115,21 @@ const yash = {
 #### 🧬 &nbsp;Graph-Based LLM Workflow
 *Hardware Verification · Research*
 
-LangGraph-orchestrated agents reasoning over hardware design graphs to automate verification flows and surface coverage gaps.
+Autonomous LangGraph agent (15 guarded tools) that reimplements the AutoBench testbench-generation pipeline for Verilog, with VCD waveform diagnosis that pinpoints failure root causes beyond pass/fail.
 
-<sub>`Python` `LangGraph` `LLMs` `Graph Theory` `EDA`</sub>
+<sub>`Python` `LangGraph` `LLMs` `Verilog` `EDA`</sub>
 
-[`→ repo`](https://github.com/Yashjaiswal638/graph-llm-hwverif)
+[`→ repo`](https://github.com/Yashjaiswal638/REKI.3-GraphBench)
 
 </td>
 <td width="50%" valign="top">
 
 #### 📊 &nbsp;KPI Dashboard
-*Real-time analytics platform*
+*CI/CD analytics · Dash app*
 
-Multi-tenant KPI dashboard with streaming pipelines, RBAC, and built-in observability — designed for executive clarity at scale.
+Dash app visualizing CI/CD pipeline performance and DevOps metrics — deployment KPIs, anomaly detection on build times, deployment-frequency forecasting, and MTTR tracking.
 
-<sub>`FastAPI` `PostgreSQL` `React` `Docker` `Grafana`</sub>
+<sub>`Python` `Plotly Dash` `Pandas` `NumPy`</sub>
 
 [`→ repo`](https://github.com/Yashjaiswal638/kpi-dashboard)
 
@@ -159,9 +141,9 @@ Multi-tenant KPI dashboard with streaming pipelines, RBAC, and built-in observab
 #### 🏠 &nbsp;Alexa Home Assistant
 *Serverless · Python*
 
-Alexa skill for Home Assistance.
+Alexa skill for home assistance — object finder and workout tracker.
 
-<sub>`Python` `Servlerless` `AWS` `Mongodb`</sub>
+<sub>`Python` `Serverless` `AWS` `MongoDB`</sub>
 
 [`→ repo`](https://github.com/Yashjaiswal638/MinorAlexa)
 
@@ -179,7 +161,7 @@ Alexa skill for Home Assistance.
 
 <a href="https://github.com/Yashjaiswal638">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yashjaiswal638&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=38BDF8&icon_color=38BDF8&text_color=cbd5e1&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashjaiswal638&hide_border=true&background=0d1117&stroke=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=cbd5e1&currStreakNum=cbd5e1&sideNums=cbd5e1&dates=64748b" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Yashjaiswal638&hide_border=true&background=0d1117&stroke=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=cbd5e1&currStreakNum=cbd5e1&sideNums=cbd5e1&dates=64748b" />
 </a>
 
 <br/>
@@ -190,7 +172,7 @@ Alexa skill for Home Assistance.
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashjaiswal638&theme=react-dark&bg_color=0d1117&color=38BDF8&line=38BDF8&point=cbd5e1&hide_border=true&area=true" alt="contribution graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashjaiswal638&theme=github_dark" alt="profile summary" />
 
 </div>
 
