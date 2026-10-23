@@ -15,7 +15,6 @@
 <p>
   <a href="https://www.linkedin.com/in/yash-jaiswal-1ab2b8227/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:yjaiswal4268@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Yashjaiswal638&style=flat-square&color=38BDF8&label=views" />
 </p>
 
 </div>
